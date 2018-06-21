@@ -1,0 +1,30 @@
+button {
+  background-color: grey;
+}
+
+body {
+  text-align: center;
+  font-size: 10px;
+}
+
+#page-wrap {
+  text-align: left;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.nav-bar {
+  text-align: right;
+  font: calibri serif;
+  font-size: 10;
+}
+
+.nav-bar a {
+  color: black;
+  text-decoration: none;
+  padding: 0.5%
+}
+
+.left, span{
+  text-align: left;
+}
